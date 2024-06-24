@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("file_1 first test");
+	printf("file_1 seconed test");
 	return 0;
 }
